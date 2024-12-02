@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Edward-Jackie
+- 👋 Hi, Here's @Edward-Jackie
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Golang、Java and Vue
-- 📫 You can reach me by my wechat account: Coco4979jie
+- 🌱 Still learning Golang、Java and Vue
+- 📫 You can reach me by my mail : iamedj0603@gmail.com
 
 <!---
 Edward-Jackie/Edward-Jackie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
